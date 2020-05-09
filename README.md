@@ -1,2 +1,2 @@
 # CookieFPSTrainer
-Protect the cookie in the FPS Trainer
+Protect the cookie in this FPS Trainer
